@@ -12,7 +12,7 @@
 		"cors": "^2.8.5",
 		"dotenv": "^8.2.0",
 		"express": "^4.16.4",
-		"mongoose": "^14.17.0"
+		"mongoose": "^8.0.0"
 	},
 	"devDependencies": {
 		"nodemon": "^2.0.22"
